@@ -1,0 +1,42 @@
+CREATE TABLE comp (
+    Fecha DATE,
+    CodProveedor VARCHAR(50),
+    NombreProveedor VARCHAR(255),
+    DireccionProveedor VARCHAR(255),
+    NumeroProveedor VARCHAR(50),
+    WebProveedor CHAR(1),
+    CodProducto VARCHAR(50),
+    NombreProducto VARCHAR(255),
+    MarcaProducto VARCHAR(100),
+    Categoria VARCHAR(100),
+    SodSuSursal VARCHAR(50),
+    NombreSucursal VARCHAR(100),
+    DireccionSucursal VARCHAR(255),
+    Region VARCHAR(100),
+    Departamento VARCHAR(100),
+    Unidades INT,
+    CostoU DECIMAL(10, 2)
+);
+
+CREATE TABLE vent (
+    Fecha DATE,
+    CodigoCliente VARCHAR(50),
+    NombreCliente VARCHAR(255),
+    TipoCliente VARCHAR(50),
+    DireccionCliente VARCHAR(255),
+    NumeroCliente VARCHAR(50),
+    CodVendedor VARCHAR(50),
+    NombreVendedor VARCHAR(255),
+    Vacacionista BIT,
+    CodProducto VARCHAR(50),
+    NombreProducto VARCHAR(255),
+    MarcaProducto VARCHAR(100),
+    Categoria VARCHAR(100),
+    SodSuSursal VARCHAR(50),
+    NombreSucursal VARCHAR(100),
+    DireccionSucursal VARCHAR(255),
+    Region VARCHAR(100),
+    Departamento VARCHAR(100),
+    Unidades INT,
+    PrecioUnitario DECIMAL(10, 2)
+);

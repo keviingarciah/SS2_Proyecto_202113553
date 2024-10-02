@@ -1,0 +1,6 @@
+Error Message: The element cannot be found in a collection. This error happens when you try to retrieve an element from a collection on a container during execution of the package and the element is not there.
+
+Stack Trace:    en Microsoft.SqlServer.Dts.Runtime.Variables.get_Item(Object index)
+   en ST_3b47091d71014d4ba2c3281902b73106.ScriptMain.Main()
+Source: 
+Target Site: Microsoft.SqlServer.Dts.Runtime.Variable get_Item(System.Object)
