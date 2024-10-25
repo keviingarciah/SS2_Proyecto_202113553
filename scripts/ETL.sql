@@ -63,8 +63,6 @@ CREATE TABLE FactCompras (
 );
 GO
 
-
-
 CREATE TABLE FactVentas (
     VentaID INT IDENTITY(1,1) PRIMARY KEY,
     Fecha DATE,

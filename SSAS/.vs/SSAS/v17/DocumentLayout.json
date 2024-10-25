@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keviin\\Documents\\SEGUNDO SEMESTRE\\SEMI2\\SS2_2S2024_202113553\\PROYECTO\\SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F704B281-8C9F-430F-B46D-89B94916837B}|SSAS.dwproj|C:\\Users\\Keviin\\Documents\\SEGUNDO SEMESTRE\\SEMI2\\SS2_2S2024_202113553\\PROYECTO\\SSAS\\Seminario2 202113553.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{F704B281-8C9F-430F-B46D-89B94916837B}|SSAS.dwproj|solutionrelative:Seminario2 202113553.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seminario2 202113553.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Keviin\\Documents\\SEGUNDO SEMESTRE\\SEMI2\\SS2_2S2024_202113553\\PROYECTO\\SSAS\\Seminario2 202113553.cube",
+              "RelativeDocumentMoniker": "Seminario2 202113553.cube",
+              "ToolTip": "C:\\Users\\Keviin\\Documents\\SEGUNDO SEMESTRE\\SEMI2\\SS2_2S2024_202113553\\PROYECTO\\SSAS\\Seminario2 202113553.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Seminario2 202113553.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-23T22:01:55.266Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
